@@ -22,6 +22,7 @@ This project consists for the following files:
 * entertainment_center.py - main Python script to run
 * media.py - contains the class Movie that stores movie details
 * fresh_tomatoes.py - creates the HTML file for the website 
+
 ## How to Run Project
 
 Download the project zip file to you computer and unzip the file. Or clone this
@@ -46,4 +47,5 @@ The following features were implemented to gain an extra credit from Udacity:
 * Added the release date to the Movie class, which is also displayed on the website.
 * Changed the background and text colour to create a dark theme for the website.
 * Added subtle drop shadow to the movie poster images.
+* take care about displaying trailers count 
 
